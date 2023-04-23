@@ -1,7 +1,5 @@
 # GPTSMS
 
-## Organization Introduction
-
 Welcome to the GPTSMS Organization on GitHub! Our mission is to make Artificial Intelligence (AI) accessible to everyone, regardless of their device or internet connectivity, by integrating the OpenAI API with SMS.
 
 ## Our Vision
