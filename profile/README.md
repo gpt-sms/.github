@@ -2,7 +2,7 @@
 
 Empowering Communication with AI
 
-Access the power of AI through SMS, anytime, anywhere
+Access GPT through SMS, anytime, anywhere
 
 <a href="https://gptsms.online" target="_blank">gptsms.online</a>
 
