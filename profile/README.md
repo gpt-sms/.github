@@ -4,7 +4,7 @@ Empowering Communication with AI
 
 Access the power of AI through SMS, anytime, anywhere
 
-http://gptsms.online 
+<a href="https://gptsms.online" target="_blank">gptsms.online</a>
 
 <br />
 
