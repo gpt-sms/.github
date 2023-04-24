@@ -4,7 +4,7 @@ Access GPT through SMS, anytime, anywhere
 
 <img src="https://raw.githubusercontent.com/gpt-sms/website/main/public/logo.png" />
 
-<a href="https://gptsms.online" target="_blank">ww.gptsms.online</a> | <a href="https://patreon.com/GPTSMS?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link" target="_blank">Patreon</a> | <a href="https://gptsms.online" target="_blank">Paypal</a>
+<a href="https://gptsms.online" target="_blank">www.gptsms.online</a> | <a href="https://patreon.com/GPTSMS?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link" target="_blank">Patreon</a> | <a href="https://gptsms.online" target="_blank">Paypal</a>
 
 <br />
 
