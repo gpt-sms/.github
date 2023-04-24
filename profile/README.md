@@ -51,21 +51,6 @@ Currently, we have one dedicated phone number through which you can access the G
  - more comming soon...
 
 
-## Infrastructure
-<ul style="display: flex; align-items: center; gap: 40px; filter: brightness(0) invert(1);">
-  <a href="https://openai.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/gpt-sms/website/main/public/logo-openai.png" alt="" width="130px">
-  </a>
-  <a href="https://vonage.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/gpt-sms/website/main/public/logo-heroku.png" alt="" width="130px">
-  </a>
-  <a href="https://heroku.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/gpt-sms/website/main/public/logo-ovh.png" alt="" width="130px">
-  </a>
-  <a href="https://ovh.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/gpt-sms/website/main/public/logo-vonage.png" alt="" width="130px">
-  </a>
-</ul>
 ## 🙏 Why Support GPT SMS
 
 Supporting the **GPT SMS** project means contributing to a more inclusive and connected world where everyone can benefit from AI technology. Your support helps us maintain and improve our infrastructure, expand our range of available phone numbers, and further develop the platform to better serve our users.
