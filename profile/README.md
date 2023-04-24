@@ -14,6 +14,9 @@ Our mission is to make Artificial Intelligence (AI) accessible to everyone, rega
 
 <br />
 
+> **Warning**
+> This project is still under development!
+
 ## 👁 Our Vision
 
 We believe that AI has the potential to revolutionize the way we communicate, access information, and solve problems.
